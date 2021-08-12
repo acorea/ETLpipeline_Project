@@ -8,7 +8,7 @@ The cleaning process consisted of several steps. Firstly, in pulling the histori
 Lastly we exported the compiled data to PGAdmin.
 
 
-Data: 
+# Data Sources 
 
 Yahoo Finance: https://finance.yahoo.com/quote/GSK/history?period1=883612800&period2=1438905600&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
 
